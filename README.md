@@ -1,4 +1,4 @@
-# DosBatch-or-DosCommand
+# Version-Control-primitively-implimented-in-DosBatch-or-DosCommand
 This is a "Dos Batch File" or "Dos Command Line Script" that has saved me much trouble, down through the years.
 When run in your working-directory, it archives all the files in your working-directory.
 The script creates a sub-directory named "Git", then copies any new files to that sub-directory.
